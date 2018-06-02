@@ -1,11 +1,11 @@
-# Tendermint Bug Bounty Program Launched! 
+# Tendermint 漏洞赏金计划上线！
 
-Since late 2017, Tendermint has had a [coordinated disclosure policy](https://tendermint.com/security) and an active security inbox open to anyone with a bug or security issue to report. As we [close in on the launch of our mainnet](https://blog.cosmos.network/latest-in-cosmos-critical-community-update-may-4350bc6cc25), we want to do more to actively reward people who invest their time and talent in finding bugs and potential vulnerabilities in our code. Today, we’re beyond excited to share that the [Tendermint bug bounty program is public on HackerOne](https://hackerone.com/tendermint/).
+自2017年底以来，Tendermint制定了[协调的披露政策](https://tendermint.com/security) 并设立了一个动态安全收件箱，以便接收任何人的漏洞或安全问题报告。 随着我们[主网推出的日子越来越临近](https://blog.cosmos.network/latest-in-cosmos-critical-community-update-may-4350bc6cc25)，我们希望做更多的事情来积极奖励那些投入时间和精力寻找我们代码中的漏洞和潜在易攻击性的人。今天，我们非常高兴地[我们非常高兴地在HackerOne公开分享Tendermint漏洞赏金计划。](https://hackerone.com/tendermint/).
 
-At times, security in emerging technology environments can seem like an overwhelming challenge: success is all about incremental improvements that move the needle forward, and sometimes teams have to break things in order to make them stronger and protect the people who use technology from malicious attackers. A bug bounty program is not a one-size-fits-all security solution that will work for every company, but it can be a great way for teams to refine their approach to attacker-defender dynamics while collaborating with talented hackers. When vulnerability rewards are designed to align researcher, developer, and security team incentives, they can be a powerful tool that drives the maturity of a product security program.
+有时候，新兴技术环境中的安全性看上去像是一个巨大的挑战：只有渐进式的改进来推动技术进步，才能确保安全与否。而且有时候我们团队不得不先破坏安全性，才能使安全性变得更强大从而可以保护使用技术的人员免受恶意攻击。该赏金计划并不是适用于所有公司的普遍安全解决方案，但它是一个好的方法，可以让我们团队在与“天才黑客”合作的同时完善攻击者-防御者动态关系。当漏洞赏金为联合研究人员、开发人员和安全团队的激励机制而设计时，他们就是强大的工具，推动了一个产品安全的计划的成熟度。
 
-Over the next few months, our program scope and bounty rewards will actively grow and change as we continue to invest in the Tendermint ecosystem, hit important development milestones, and ship new features into the wild. As our security program evolves, we will update the scope of the program to include more and more of our code. And as we continue to build out the Cosmos SDK and launch Tendermint, our program rewards will increase to incentivize researchers to help us discover (and squish) the bugs in our code that we’d like to eliminate the most.
+在接下来的几个月里，随着我们继续投资Tendermint生态系统，并实现重要的发展里程碑，以及在其他领域推出新功能，该计划的范围和赏金奖励都将呈现积极发展和变化的态势。随着我们安全计划的发展，我们将更新计划的范围，容纳更多的代码。随着我们继续构建Cosmos SDK并推出Tendermint，该计划的奖励将会增加，以激励研究人员帮助我们发现（并压缩）我们尽可能希望消除的代码中的错误。
 
-We’re always interested in creative bugs and vulnerabilities, especially memory allocation bugs, race conditions, timing attacks, information leaks, authentication bypasses, incorrect block validation, Denial of Service issues, lost write bugs, and payloads/transactions that cause panics. To learn more about our program and the rewards we’re offering for valid reports, check out our HackerOne program [here](https://hackerone.com/tendermint).
+对创造性的漏洞和易攻击性，我们一直都很感兴趣，尤其是内存分配错误、竞态条件、定时攻击、信息泄漏、验证旁路、错误区块验证、拒绝服务问题、写入错误的丢失以及导致恐慌的有效负载/交易。要详细了解我们的计划和我们提供的奖励的有效报告，请点击[此处](https://hackerone.com/tendermint)请点击此处查看我们的HackerOne计划。
 
-> Happy hacking!
+> 来体验一次当“黑客”的快感吧！
